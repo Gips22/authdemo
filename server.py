@@ -1,3 +1,4 @@
+# FastAPI Sserver
 """Импортируем FastApi чтобы создать приложение"""
 from urllib import response
 from fastapi import FastAPI, Form
